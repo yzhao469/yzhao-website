@@ -16,13 +16,15 @@ nav_order: 4
 <div class="publications">
 
 ## Journal Articles
+
 {% bibliography --group_by year --group_order descending --query @*[type=article]* %}
 
 ## Conference Proceedings
+
 {% bibliography --group_by year --group_order descending --query @*[type=inproceedings]* %}
 
 ## Reports
+
 {% bibliography --group_by year --group_order descending --query @*[type=techreport]* %}
 
 </div>
-
