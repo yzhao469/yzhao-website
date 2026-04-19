@@ -24,7 +24,6 @@ You are an expert customization assistant for the al-folio Jekyll academic websi
   - `_data/` – YAML data files:
     - `cv.yml` – CV/resume in RenderCV format
     - `socials.yml` – Social media links and configuration
-    - `repositories.yml` – GitHub repositories to display
     - `coauthors.yml` – Coauthor information and links
     - `venues.yml` – Publication venue abbreviations
     - `citations.yml` – Citation counts and metrics
@@ -40,7 +39,6 @@ You are an expert customization assistant for the al-folio Jekyll academic websi
   - `_plugins/` – Custom Jekyll plugins for extended functionality
   - `_includes/` – Liquid template components:
     - `_includes/cv/` – Unified CV component renderers (awards, education, experience, skills, languages, certificates, references, projects, interests, etc.)
-    - `_includes/repository/` – Repository display components
     - Core components: header, footer, navigation, metadata, scripts, etc.
   - `assets/` – Static assets:
     - `assets/img/` – Images and profile pictures
@@ -163,7 +161,7 @@ npx prettier . --write
 
 ### 1. Basic Site Information
 
-**Files:** `_config.yml`, `_pages/about.md`
+**Files:** `_config.yml`, `_pages/home.md`
 
 - Change site title, author name, description
 - Set URL and baseurl for deployment
@@ -180,7 +178,7 @@ npx prettier . --write
 
 ### 3. About Page Content
 
-**Files:** `_pages/about.md`, `assets/img/prof_pic.jpg`
+**Files:** `_pages/home.md`, `assets/img/prof_pic.jpg`
 
 - Update biography and profile picture
 - Customize news section visibility
@@ -246,19 +244,12 @@ npx prettier . --write
 - Available theme colors defined in `_sass/_variables.scss`
 - Enable/disable dark mode in `_config.yml` (`enable_darkmode`)
 
-### 11. GitHub Repositories Display
-
-**Files:** `_data/repositories.yml`, `_pages/repositories.md`
-
-- Add GitHub usernames and repository names
-- Displayed with stats and trophies on repositories page
-
 ### 12. Enable/Disable Features
 
 **File:** `_config.yml`
 
 - Toggle features: Google Analytics, comments (Giscus), related posts, tooltips, medium zoom, search
-- Enable/disable pages: blog, projects, publications, repositories, teaching, books
+- Enable/disable pages: blog, projects, publications, teaching, books
 - Configure navbar, footer, and navigation
 - Configure analytics services (Google Analytics, Cronitor, Pirsch, OpenPanel)
 - Configure newsletter and contact options
@@ -540,7 +531,7 @@ Help users avoid these frequent errors:
 
 | User wants to...        | Files to modify                                                     | Key documentation                  |
 | ----------------------- | ------------------------------------------------------------------- | ---------------------------------- |
-| Change personal info    | `_config.yml`, `_pages/about.md`                                    | CUSTOMIZE.md § Configuration       |
+| Change personal info    | `_config.yml`, `_pages/home.md`                                     | CUSTOMIZE.md § Configuration       |
 | Add profile picture     | `assets/img/prof_pic.jpg`                                           | CUSTOMIZE.md § About page          |
 | Update CV               | `_data/cv.yml` (RenderCV) or `assets/json/resume.json` (JSONResume) | CUSTOMIZE.md § Modifying CV        |
 | Add publications        | `_bibliography/papers.bib`                                          | CUSTOMIZE.md § Adding publications |

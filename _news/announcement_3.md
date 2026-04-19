@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+**<u>*May 2025*</u>**: Dr. Zhao is going to join the University of Nebraska, Lincoln as an assistant professor in August 2025 and is actively seeking enthusiastic students to join!

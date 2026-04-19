@@ -250,7 +250,7 @@ def hello():
 ### Pages
 
 - Format: `descriptive-name.md`
-- Example: `about.md`, `teaching.md`, `cv.md`
+- Example: `home.md`, `teaching.md`, `cv.md`
 
 ## Markdown Linting & Formatting
 

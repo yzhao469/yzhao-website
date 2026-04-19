@@ -92,11 +92,11 @@ bundle exec jekyll serve --port 4000   # Run at http://localhost:4000
 
 - `_bibliography/papers.bib` – BibTeX bibliography for publications
 - `_config.yml` – **Primary configuration file** (title, author, URLs, baseurl, feature flags)
-- `_data/` – YAML data files (socials.yml, coauthors.yml, cv.yml, citations.yml, venues.yml, repositories.yml)
+- `_data/` – YAML data files (socials.yml, coauthors.yml, cv.yml, citations.yml, venues.yml)
 - `_includes/` – Reusable Liquid template components
 - `_layouts/` – Page layout templates (about.liquid, post.liquid, bib.liquid, distill.liquid, cv.liquid, etc.)
 - `_news/` – News/announcement entries
-- `_pages/` – Static pages (about.md, cv.md, publications.md, projects.md, teaching.md, etc.)
+- `_pages/` – Static pages (home.md, cv.md, publications.md, projects.md, teaching.md, etc.)
 - `_posts/` – Blog posts (format: YYYY-MM-DD-title.md)
 - `_projects/` – Project showcase entries
 - `_sass/` – SCSS stylesheets

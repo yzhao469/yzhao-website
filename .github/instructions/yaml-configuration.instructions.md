@@ -122,14 +122,6 @@ Social media citation counts and metrics.
 scholar_userid: YOUR_SCHOLAR_ID
 ```
 
-### repositories.yml
-
-GitHub repository listing for the repositories page.
-
-**Format:** List of repository information
-
-**Usage:** Used by repositories page to display GitHub projects
-
 ### coauthors.yml
 
 Co-author information for bibliography/publications.

@@ -74,7 +74,6 @@ Here we will give you some tips on how to customize the website. One important t
     - [Removing the news section](#removing-the-news-section)
     - [Removing the projects page](#removing-the-projects-page)
     - [Removing the publications page](#removing-the-publications-page)
-    - [Removing the repositories page](#removing-the-repositories-page)
     - [You can also remove pages through commenting out front-matter blocks](#you-can-also-remove-pages-through-commenting-out-front-matter-blocks)
   - [Adding Token for Lighthouse Badger](#adding-token-for-lighthouse-badger)
     - [Personal Access Token (fine-grained) Permissions for Lighthouse Badger:](#personal-access-token-fine-grained-permissions-for-lighthouse-badger)
@@ -685,19 +684,6 @@ Custom fields (any field name you create) remain as **strings** and require expl
 
 #### Complete example: Book reviews with custom adaptations field
 
-**File: `_books/the_godfather.md`**
-
-```yaml
----
-layout: book-review
-title: The Godfather
-author: Mario Puzo
-categories: classics crime historical-fiction
-tags: top-100
-adaptations: movie TV-series video-game
----
-```
-
 **File: `_layouts/book-review.liquid` (partial)**
 
 ```liquid
@@ -1114,7 +1100,7 @@ To remove the blog, you have to:
 - delete [\_posts](_posts/) directory
 - delete blog page [\_pages/blog.md](_pages/blog.md)
 - remove reference to blog page in our [\_pages/dropdown.md](_pages/dropdown.md)
-- remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)
+- remove the `latest_posts` part in [\_pages/home.md](_pages/home.md)
 - remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives`
 
 You can also:
@@ -1131,8 +1117,8 @@ You can also:
 To remove the news section, you can:
 
 - delete the [\_news](_news/) directory
-- delete the file [\_includes/news.liquid](_includes/news.liquid) and the references to it in the [\_pages/about.md](_pages/about.md)
-- remove the `announcements` part in [\_pages/about.md](_pages/about.md)
+- delete the file [\_includes/news.liquid](_includes/news.liquid) and the references to it in the [\_pages/home.md](_pages/home.md)
+- remove the `announcements` part in [\_pages/home.md](_pages/home.md)
 - remove the news part in the `Collections` section in the [\_config.yml](_config.yml) file
 
 ### Removing the projects page
@@ -1168,13 +1154,6 @@ You can also:
 - delete [\_plugins/hide-custom-bibtex.rb](_plugins/hide-custom-bibtex.rb)
 - delete [\_plugins/inspirehep-citations.rb](_plugins/inspirehep-citations.rb)
 - remove the `jekyll-scholar` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
-
-### Removing the repositories page
-
-To remove the repositories, you can:
-
-- delete the repositories page [\_pages/repositories.md](_pages/repositories.md)
-- delete [\_includes/repository/](_includes/repository/) directory
 
 ### You can also remove pages through commenting out front-matter blocks
 
