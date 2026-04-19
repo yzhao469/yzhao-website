@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-**<u>*August 2025*</u>**: Welcome Lumanti  Shakya to join our group!
+**<u>_August 2025_</u>**: Welcome Lumanti Shakya to join our group!
