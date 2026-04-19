@@ -65,16 +65,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/yzhao-website/join-us/";
           },
-        },{id: "news-november-2025-we-are-actively-looking-for-1-2-highly-motivated-students-to-join-our-group-as-phd-students-check-here-to-learn-more",
-          title: '*November 2025*:: we are actively looking for 1-2 highly motivated students to join...',
+        },{id: "news-may-2025-dr-zhao-is-going-to-join-the-university-of-nebraska-lincoln-as-an-assistant-professor-in-august-2025-and-is-actively-seeking-enthusiastic-students-to-join",
+          title: '*May 2025*: Dr. Zhao is going to join the University of Nebraska, Lincoln...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/yzhao-website/news/announcement_2.html";
-            },},{id: "news-may-2025-dr-zhao-is-going-to-join-the-university-of-nebraska-lincoln-as-an-assistant-professor-in-august-2025-and-is-actively-seeking-enthusiastic-students-to-join",
-          title: '*May 2025*: Dr. Zhao is going to join the University of Nebraska, Lincoln...',
+            },},{id: "news-november-2025-we-are-actively-looking-for-1-2-highly-motivated-students-to-join-our-group-as-phd-students-check-here-to-learn-more",
+          title: '*November 2025*:: we are actively looking for 1-2 highly motivated students to join...',
           description: "",
           section: "News",},{id: "teachings-cee-4405-introduction-to-geotechnical-engineering",
           title: 'CEE 4405 Introduction to Geotechnical Engineering',
