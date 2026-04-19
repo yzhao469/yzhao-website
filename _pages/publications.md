@@ -25,3 +25,4 @@ nav_order: 4
 {% bibliography --group_by year --group_order descending --query @*[type=techreport]* %}
 
 </div>
+
