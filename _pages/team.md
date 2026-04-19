@@ -10,10 +10,10 @@ profiles:
   - align: left
     image: ymzhao.jpg
     image_circular: false
-    more_info: >
-      Assistant Professor<br>
-      Department of Civil & Environmental Engineering<br>
-      University of Nebraska, Lincoln
+    more_info: >-
+      <p>Assistant Professor</p>
+      <p>Department of Civil & Environmental Engineering</p>
+      <p>University of Nebraska, Lincoln</p>
 ---
 
 ## Research Group Members
@@ -40,6 +40,5 @@ My research interest includes computational geomechanics, granular mechanics and
 In my leisure time, I like reading novels, dance and play basketball.
 
 ### Alumni
-
 
 
