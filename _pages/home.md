@@ -8,12 +8,12 @@ nav_order: 1
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Landslides.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>204D Peter Kiewit Institute</p>
+    <p>1110 S 67th St</p>
+    <p>Omaha, NE</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
