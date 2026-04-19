@@ -9,7 +9,6 @@ nav_order: 3
 profiles:
   - align: left
     image: ymzhao.jpg
-    content: Yumeng Zhao, PI
     image_circular: false
     more_info: >
       Assistant Professor<br>
