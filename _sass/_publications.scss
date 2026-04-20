@@ -24,7 +24,7 @@
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: var(--global-text-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -38,6 +38,11 @@
 
     li {
       margin-bottom: 1rem;
+
+      .col-sm-10 {
+        max-width: 100%;
+        flex: 0 0 100%;
+      }
 
       .preview {
         display: inline-block;

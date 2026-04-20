@@ -29,7 +29,7 @@ DualSPHysics-INL is an extended adaptation of the [DualSPHysics](https://dual.sp
   </div>
 </div>
 <div class="row mt-3">
-  <div class="col-sm-6 offset-sm-3">
-    <img src="{{ '/assets/img/hopper.gif' | relative_url }}" alt="Hopper simulation" class="img-fluid rounded" />
+  <div class="col-12">
+    <img src="{{ '/assets/img/hopper.gif' | relative_url }}" alt="Hopper simulation" class="img-fluid rounded w-100" />
   </div>
 </div>

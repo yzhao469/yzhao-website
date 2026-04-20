@@ -34,3 +34,7 @@ We are actively seeking passionate undergraduates to join. Check undergraduate r
 If you would like to conduct an independent study for academic credit, please contact Dr. Zhao via email or stop by at his office.
 
 Other Undergraduate Research & Fellowships information: [https://uraf.unl.edu/](https://uraf.unl.edu/)
+
+<div class="text-center mt-4">
+  <img src="{{ '/assets/img/UNL.jpg' | relative_url }}" alt="University of Nebraska-Lincoln" class="img-fluid rounded" style="max-width: 600px;" />
+</div>
