@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-we are actively looking for 1-2 highly motivated students to join our group as PhD students. Check here to learn more.
+we are actively looking for 1-2 highly motivated students to join our group as PhD students. Check [here]({{ '/join-us/' | relative_url }}) to learn more.

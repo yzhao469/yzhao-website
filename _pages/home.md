@@ -3,7 +3,6 @@ layout: about
 title: Home
 permalink: /
 heading: Granular Mechanics for Energy and Disasters (GRAMED) Laboratory
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 nav: false
 nav_order: 1
 
@@ -14,6 +13,10 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+contact: >
+  <p><strong>Office:</strong> 204D Peter Kiewit Institute, 1110 S 67th St, Omaha, NE</p>
+  <p><strong>Office Phone:</strong> 402-472-2371</p>
+  <p><strong>Email:</strong> <a href="mailto:yzhao52@unl.edu">yzhao52@unl.edu</a></p>
 
 announcements:
   enabled: true # includes a list of news items
@@ -31,11 +34,3 @@ Granular materials are the second most manipulated materials on Earth after wate
 At the GRAMMED Lab, we investigate the fundamental behavior of granular materials to address pressing challenges in energy systems and disaster resilience. Our research integrates computational modeling and experimental methods to explore how granular media respond to natural and anthropogenic disturbances, with applications ranging from subsurface energy technologies to geohazard mitigation.
 
 By bridging geomechanics with energy and hazard sciences, we aim to advance predictive capabilities and inform engineering strategies that enhance disaster preparedness, improve infrastructure resilience, and enable sustainable energy development. Our interdisciplinary approach supports innovations that are rooted in fundamental mechanics yet driven by real-world impact.
-
----
-
-**Office:** 204D Peter Kiewit Institute, 1110 S 67th St, Omaha, NE
-
-**Office Phone:** 402-472-2371
-
-**Email:** [yzhao52@unl.edu](mailto:yzhao52@unl.edu)

@@ -50,6 +50,11 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    {% if page.contact %}
+      <hr>
+      {{ page.contact }}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
