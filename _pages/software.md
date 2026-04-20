@@ -20,16 +20,14 @@ DualSPHysics-INL is an extended adaptation of the [DualSPHysics](https://dual.sp
 
 - Open source, check our GitHub page! [Link](https://github.com/IdahoLabResearch/DualSPHysics-INL)
 
-<div class="row mt-3">
-  <div class="col-sm-5">
-    <img src="{{ '/assets/img/CPT.gif' | relative_url }}" alt="CPT simulation" class="img-fluid rounded" />
+<div class="d-flex flex-row mt-3 gap-2">
+  <div style="width: 35%;">
+    <img src="{{ '/assets/img/CPT.gif' | relative_url }}" alt="CPT simulation" class="img-fluid rounded" style="width: 100%;" />
   </div>
-  <div class="col-sm-7">
-    <img src="{{ '/assets/img/Screw.gif' | relative_url }}" alt="Screw simulation" class="img-fluid rounded" />
+  <div style="width: 65%;">
+    <img src="{{ '/assets/img/Screw.gif' | relative_url }}" alt="Screw simulation" class="img-fluid rounded" style="width: 100%;" />
   </div>
 </div>
-<div class="row mt-3">
-  <div class="col-12">
-    <img src="{{ '/assets/img/hopper.gif' | relative_url }}" alt="Hopper simulation" class="img-fluid rounded" style="width: 100%;" />
-  </div>
+<div class="mt-3">
+  <img src="{{ '/assets/img/hopper.gif' | relative_url }}" alt="Hopper simulation" class="img-fluid rounded" style="width: 100%;" />
 </div>
