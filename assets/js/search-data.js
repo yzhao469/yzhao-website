@@ -65,16 +65,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/yzhao-website/join-us/";
           },
-        },{id: "news-may-2025-dr-zhao-is-going-to-join-the-university-of-nebraska-lincoln-as-an-assistant-professor-in-august-2025-and-is-actively-seeking-enthusiastic-students-to-join",
-          title: '_May 2025_: Dr. Zhao is going to join the University of Nebraska, Lincoln...',
+        },{id: "news-dr-zhao-is-going-to-join-the-university-of-nebraska-lincoln-as-an-assistant-professor-in-august-2025-and-is-actively-seeking-enthusiastic-students-to-join",
+          title: 'Dr. Zhao is going to join the University of Nebraska, Lincoln as an...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-welcome-lumanti-shakya-to-join-our-group",
+          title: 'Welcome Lumanti Shakya to join our group!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/yzhao-website/news/announcement_2.html";
-            },},{id: "news-november-2025-we-are-actively-looking-for-1-2-highly-motivated-students-to-join-our-group-as-phd-students-check-here-to-learn-more",
-          title: '_November 2025_:: we are actively looking for 1-2 highly motivated students to join...',
+          section: "News",},{id: "news-we-are-actively-looking-for-1-2-highly-motivated-students-to-join-our-group-as-phd-students-check-here-to-learn-more",
+          title: 'we are actively looking for 1-2 highly motivated students to join our group...',
           description: "",
           section: "News",},{id: "teachings-cee-4405-introduction-to-geotechnical-engineering",
           title: 'CEE 4405 Introduction to Geotechnical Engineering',
@@ -143,4 +141,30 @@ ninja.data = [{
         handler: () => {
           window.open("https://www.alberteinstein.com/", "_blank");
         },
-      },];
+      },{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
