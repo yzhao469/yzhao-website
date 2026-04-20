@@ -21,10 +21,10 @@ DualSPHysics-INL is an extended adaptation of the [DualSPHysics](https://dual.sp
 - Open source, check our GitHub page! [Link](https://github.com/IdahoLabResearch/DualSPHysics-INL)
 
 <div class="row mt-3">
-  <div class="col-sm-4.5">
+  <div class="col-sm-5">
     <img src="{{ '/assets/img/CPT.gif' | relative_url }}" alt="CPT simulation" class="img-fluid rounded" />
   </div>
-  <div class="col-sm-7.5">
+  <div class="col-sm-7">
     <img src="{{ '/assets/img/Screw.gif' | relative_url }}" alt="Screw simulation" class="img-fluid rounded" />
   </div>
 </div>
