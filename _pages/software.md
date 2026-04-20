@@ -22,10 +22,10 @@ DualSPHysics-INL is an extended adaptation of the [DualSPHysics](https://dual.sp
 
 <div class="d-flex flex-row mt-3 gap-2">
   <div style="width: 35%;">
-    <img src="{{ '/assets/img/CPT.gif' | relative_url }}" alt="CPT simulation" class="img-fluid rounded" style="width: 100%;" />
+    <img src="{{ '/assets/img/CPT.gif' | relative_url }}" alt="CPT simulation" class="rounded" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>
   <div style="width: 65%;">
-    <img src="{{ '/assets/img/Screw.gif' | relative_url }}" alt="Screw simulation" class="img-fluid rounded" style="width: 100%;" />
+    <img src="{{ '/assets/img/Screw.gif' | relative_url }}" alt="Screw simulation" class="rounded" style="width: 100%; height: 300px; object-fit: cover;" />
   </div>
 </div>
 <div class="mt-3">
