@@ -26,4 +26,4 @@ The course includes five laboratory sessions that provide students with hands-on
 
 ## Course Materials
 
-- [Syllabus - CEE 4405 Intro to Geotech Eng](https://drive.google.com/drive/folders/1c96H4MYNVFXrhhWobTo-FpbIbpuCNF0c)
+- [Syllabus - CEE 4405 Intro to Geotech Eng]({{ '/assets/pdf/Syllabus CEE4405 summer 2023.pdf' | relative_url }})

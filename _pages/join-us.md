@@ -26,7 +26,7 @@ Graduate Program Application Resources:
 
 [https://graduate.unl.edu/academics/programs/CIVE-PHD/](https://graduate.unl.edu/academics/programs/CIVE-PHD/)
 
-Undergraduate Students:
+## Undergraduate Students:
 
 We are actively seeking passionate undergraduates to join. Check undergraduate research opportunities UCARE program at [https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/](https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/) and a list of opening projects (including our group) at [https://uraf.unl.edu/undergraduate-research/find-ucare-opportunity/](https://uraf.unl.edu/undergraduate-research/find-ucare-opportunity/)
 

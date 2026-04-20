@@ -12,7 +12,7 @@ level: Joint undergraduate/graduate level
 
 ## Course Description
 
-This course introduces how to use numerical methods to solve civil engineering problems. Topics include numerical stability, consistency, convergence; numerical methods for 1st order, higher order Ordinary Differential Equations (ODE), Partial Differential Equations (PDE); systems of ODEs/PDEs; and fundamental machine learning approaches for relevant questions.
+This course introduces how to use numerical methods to solve civil engineering problems. Topics include Finite Difference Method (FDM) and its numerical stability, consistency, convergence; numerical methods for 1st order, higher order Ordinary Differential Equations (ODE), Partial Differential Equations (PDE); systems of ODEs/PDEs; other numerical methods (FVM/FEM/SPH/DEM);and fundamental machine learning approaches for relevant questions.
 
 Examples cover a wide range of topics not only limited to civil engineering, including:
 - Solid mechanics
@@ -20,11 +20,10 @@ Examples cover a wide range of topics not only limited to civil engineering, inc
 - Heat transfer
 - Chemical transport
 - Transportation networks
-- Electromagnetic systems
 - Biological systems
 - Earth processes
-- Human behavior and finance
 
 ## Course Materials
 
 - [Flyer and Resources](https://drive.google.com/drive/folders/1c96H4MYNVFXrhhWobTo-FpbIbpuCNF0c)
+- [Syllabus - CIVE 481-881 Comp. Method Civil Eng]({{ '/assets/pdf/Syllabus Computational Methods in Civil Engineering.pdf' | relative_url }})

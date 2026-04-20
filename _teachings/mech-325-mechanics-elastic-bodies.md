@@ -25,4 +25,4 @@ This course introduces the mechanics of solid materials within the range of elas
 
 ## Course Materials
 
-- [Syllabus - MECH 325 Mechanics of Elastic Bodies](https://docs.google.com/document/d/17Jtc8aFOOkhszeUW17BBT0XKsIlnbWWitdCH6eoDKOc/edit?tab=t.0)
+- [Syllabus - MECH 325 Mechanics of Elastic Bodies]({{ '/assets/pdf/Syllabus MECH325 Mechanics of Elastic Bodies.pdf' | relative_url }})

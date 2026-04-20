@@ -6,14 +6,30 @@ nav: true
 nav_order: 5
 ---
 
-## Research Software and Tools
+## [DualSPHysics-INL](https://github.com/IdahoLabResearch/DualSPHysics-INL)
 
-We develop and maintain several software tools and computational resources for research and education.
+GPU accelerated SPH package for granular flow modeling
 
-### Available Software
+DualSPHysics-INL is an extended adaptation of the [DualSPHysics](https://dual.sphysics.org/) open-source Smoothed Particle Hydrodynamics (SPH) software. Our solver has the following highlights:
 
-Information about our research software, tools, and repositories will be displayed here. Check back for details on available computational resources and open-source contributions.
+- Implemented the G-B (Gudehus & Bauer) hypoplastic model for granular flow simulation
 
-## Code and Resources
+- Adopted a momentum-based boundary condition for accurate free-slip, no-slip and frictional slip boundary conditions; also avoiding wall penetration in impact loading
 
-Links to our GitHub repositories and computational tools are coming soon.
+- GPU-accelerated
+
+- Open source, check our GitHub page! [Link](https://github.com/IdahoLabResearch/DualSPHysics-INL)
+
+<div class="row mt-3">
+  <div class="col-sm-6">
+    <img src="{{ '/assets/img/CPT.gif' | relative_url }}" alt="CPT simulation" class="img-fluid rounded" />
+  </div>
+  <div class="col-sm-6">
+    <img src="{{ '/assets/img/Screw.gif' | relative_url }}" alt="Screw simulation" class="img-fluid rounded" />
+  </div>
+</div>
+<div class="row mt-3">
+  <div class="col-sm-6 offset-sm-3">
+    <img src="{{ '/assets/img/hopper.gif' | relative_url }}" alt="Hopper simulation" class="img-fluid rounded" />
+  </div>
+</div>
