@@ -77,16 +77,6 @@ ninja.data = [{
           description: "Introduction to numerical methods for solving civil engineering problems, including ODEs, PDEs, and machine learning approaches.",
           section: "Teachings",handler: () => {
               window.location.href = "/yzhao-website/teachings/cive-481-881-computational-problem-solving.html";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/yzhao-website/teachings/data-science-fundamentals.html";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/yzhao-website/teachings/introduction-to-machine-learning.html";
             },},{id: "teachings-mech-325-mechanics-of-elastic-bodies",
           title: 'MECH 325 Mechanics of Elastic Bodies',
           description: "Mechanics of solid materials within the range of elastic deformation with applications to science and engineering.",
