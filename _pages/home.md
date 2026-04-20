@@ -3,13 +3,9 @@ layout: about
 title: Home
 permalink: /
 heading: Granular Mechanics for Energy and Disasters (GRAMED) Laboratory
+hero_image: Landslides.jpg
 nav: false
 nav_order: 1
-
-profile:
-  align: right
-  image: Landslides.jpg
-  image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
