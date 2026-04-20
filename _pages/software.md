@@ -21,15 +21,15 @@ DualSPHysics-INL is an extended adaptation of the [DualSPHysics](https://dual.sp
 - Open source, check our GitHub page! [Link](https://github.com/IdahoLabResearch/DualSPHysics-INL)
 
 <div class="row mt-3">
-  <div class="col-sm-6">
+  <div class="col-sm-4.5">
     <img src="{{ '/assets/img/CPT.gif' | relative_url }}" alt="CPT simulation" class="img-fluid rounded" />
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-7.5">
     <img src="{{ '/assets/img/Screw.gif' | relative_url }}" alt="Screw simulation" class="img-fluid rounded" />
   </div>
 </div>
 <div class="row mt-3">
   <div class="col-12">
-    <img src="{{ '/assets/img/hopper.gif' | relative_url }}" alt="Hopper simulation" class="img-fluid rounded w-100" />
+    <img src="{{ '/assets/img/hopper.gif' | relative_url }}" alt="Hopper simulation" class="img-fluid rounded" style="width: 100%;" />
   </div>
 </div>

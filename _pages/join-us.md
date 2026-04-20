@@ -10,8 +10,7 @@ We are actively seeking enthusiastic graduates, undergraduates, postdocs and vis
 
 ## Graduate Students:
 
-We are currently actively looking for 1-2 PhD students to join in Summer or Fall 2026. Check the details [here]({ '/assets/pdf/GRAMED Lab PhD hiring UNL.pdf' | relative_url })
-).
+We are currently actively looking for 1-2 PhD students to join in Summer or Fall 2026. Check the details [here]({{ '/assets/pdf/GRAMED Lab PhD hiring UNL.pdf' | relative_url }}).
 
 If you are interested in earning a PhD degree in this research group, you are welcomed to apply to the Department of Civil and Environmental Engineering through the Office of Graduate Studies at the University of Nebraska, Lincoln.
 
