@@ -7,56 +7,56 @@ ninja.data = [{
     title: "Home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/yzhao-website/";
+      window.location.href = "/gramed-lab/";
     },
   },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/yzhao-website/research/";
+            window.location.href = "/gramed-lab/research/";
           },
         },{id: "nav-team",
           title: "Team",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/yzhao-website/team/";
+            window.location.href = "/gramed-lab/team/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/yzhao-website/publications/";
+            window.location.href = "/gramed-lab/publications/";
           },
         },{id: "nav-software",
           title: "Software",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/yzhao-website/software/";
+            window.location.href = "/gramed-lab/software/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/yzhao-website/teaching/";
+            window.location.href = "/gramed-lab/teaching/";
           },
         },{id: "nav-outreach",
           title: "Outreach",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/yzhao-website/outreach/";
+            window.location.href = "/gramed-lab/outreach/";
           },
         },{id: "nav-join-us",
           title: "Join Us",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/yzhao-website/join-us/";
+            window.location.href = "/gramed-lab/join-us/";
           },
         },{id: "news-dr-zhao-is-going-to-join-the-university-of-nebraska-lincoln-as-an-assistant-professor-in-august-2025-and-is-actively-seeking-enthusiastic-students-to-join",
           title: 'Dr. Zhao is going to join the University of Nebraska, Lincoln as an...',
@@ -71,23 +71,23 @@ ninja.data = [{
           title: 'CEE 4405 Introduction to Geotechnical Engineering',
           description: "Fundamentals of soil properties and geotechnical engineering practice with laboratory sessions.",
           section: "Teachings",handler: () => {
-              window.location.href = "/yzhao-website/teachings/cee-4405-intro-geotechnical-engineering.html";
+              window.location.href = "/gramed-lab/teachings/cee-4405-intro-geotechnical-engineering.html";
             },},{id: "teachings-cive-481-881-computational-problem-solving-in-civil-engineering",
           title: 'CIVE 481/881 Computational Problem Solving in Civil Engineering',
           description: "Introduction to numerical methods for solving civil engineering problems, including ODEs, PDEs, and machine learning approaches.",
           section: "Teachings",handler: () => {
-              window.location.href = "/yzhao-website/teachings/cive-481-881-computational-problem-solving.html";
+              window.location.href = "/gramed-lab/teachings/cive-481-881-computational-problem-solving.html";
             },},{id: "teachings-mech-325-mechanics-of-elastic-bodies",
           title: 'MECH 325 Mechanics of Elastic Bodies',
           description: "Mechanics of solid materials within the range of elastic deformation with applications to science and engineering.",
           section: "Teachings",handler: () => {
-              window.location.href = "/yzhao-website/teachings/mech-325-mechanics-elastic-bodies.html";
+              window.location.href = "/gramed-lab/teachings/mech-325-mechanics-elastic-bodies.html";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/yzhao-website/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/gramed-lab/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -108,7 +108,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/yzhao-website/feed.xml", "_blank");
+          window.open("/gramed-lab/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

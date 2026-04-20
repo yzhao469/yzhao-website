@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yzhao469.github.io/yzhao-website/sitemap.xml
+Sitemap: https://yzhao469.github.io/gramed-lab/sitemap.xml
