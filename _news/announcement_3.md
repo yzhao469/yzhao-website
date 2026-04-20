@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**<u>_May 2025_</u>**: Dr. Zhao is going to join the University of Nebraska, Lincoln as an assistant professor in August 2025 and is actively seeking enthusiastic students to join!
+Dr. Zhao is going to join the University of Nebraska, Lincoln as an assistant professor in August 2025 and is actively seeking enthusiastic students to join!
