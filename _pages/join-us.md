@@ -6,11 +6,12 @@ nav: true
 nav_order: 8
 ---
 
-We are actively seeking enthusiastic graduates, undergraduates, postdocs and visiting scholars to join our team. If you are interested in our research, please feel free to reach out at yzhao52@unl.edu and share your CV along with a brief outline of your research interests or plans. While our work is primarily rooted in geotechnical engineering and granular matters, we warmly welcome individuals from diverse academic backgrounds—interdisciplinary collaboration is highly valued in our group.
+We are actively seeking enthusiastic graduates, undergraduates, postdocs and visiting scholars to join our team. If you are interested in our research, please feel free to reach out at [yzhao52@unl.edu](yzhao52@unl.edu) and share your CV along with a brief outline of your research interests or plans. While our work is primarily rooted in geotechnical engineering and granular matters, we warmly welcome individuals from diverse academic backgrounds—interdisciplinary collaboration is highly valued in our group.
 
 ## Graduate Students:
 
-We are currently actively looking for 1-2 PhD students to join in Summer or Fall 2026. Check the details here.
+We are currently actively looking for 1-2 PhD students to join in Summer or Fall 2026. Check the details [here]({ '/assets/pdf/GRAMED Lab PhD hiring UNL.pdf' | relative_url })
+).
 
 If you are interested in earning a PhD degree in this research group, you are welcomed to apply to the Department of Civil and Environmental Engineering through the Office of Graduate Studies at the University of Nebraska, Lincoln.
 
