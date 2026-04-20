@@ -2,7 +2,6 @@
 layout: page
 permalink: /software/
 title: Software
-description: Research software, tools, and computational resources.
 nav: true
 nav_order: 5
 ---

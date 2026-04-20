@@ -2,7 +2,6 @@
 layout: page
 permalink: /join-us/
 title: Join Us
-description: Information about joining our research group.
 nav: true
 nav_order: 8
 ---
@@ -19,18 +18,18 @@ If you would like to conduct an independent study for academic credit as a maste
 
 Graduate Program Application Resources:
 
-https://graduate.unl.edu/admissions/
+[https://graduate.unl.edu/admissions/](https://graduate.unl.edu/admissions/)
 
-https://engineering.unl.edu/graduate-programs/admissions/
+[https://engineering.unl.edu/graduate-programs/admissions]/(https://engineering.unl.edu/graduate-programs/admissions)
 
-https://graduate.unl.edu/academics/programs/CIVE-MS/
+[https://graduate.unl.edu/academics/programs/CIVE-MS/](https://graduate.unl.edu/academics/programs/CIVE-MS/)
 
-https://graduate.unl.edu/academics/programs/CIVE-PHD/
+[https://graduate.unl.edu/academics/programs/CIVE-PHD/](https://graduate.unl.edu/academics/programs/CIVE-PHD/)
 
 Undergraduate Students:
 
-We are actively seeking passionate undergraduates to join. Check undergraduate research opportunities UCARE program at https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/ and a list of opening projects (including our group) at https://uraf.unl.edu/undergraduate-research/find-ucare-opportunity/
+We are actively seeking passionate undergraduates to join. Check undergraduate research opportunities UCARE program at [https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/](https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/) and a list of opening projects (including our group) at [https://uraf.unl.edu/undergraduate-research/find-ucare-opportunity/](https://uraf.unl.edu/undergraduate-research/find-ucare-opportunity/)
 
 If you would like to conduct an independent study for academic credit, please contact Dr. Zhao via email or stop by at his office.
 
-Other Undergraduate Research & Fellowships information: https://uraf.unl.edu/
+Other Undergraduate Research & Fellowships information: [https://uraf.unl.edu/](https://uraf.unl.edu/)

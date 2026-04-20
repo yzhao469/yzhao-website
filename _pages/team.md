@@ -2,7 +2,6 @@
 layout: profiles
 permalink: /team/
 title: Team
-description: Meet the members of our research group.
 nav: true
 nav_order: 3
 

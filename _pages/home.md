@@ -2,6 +2,7 @@
 layout: about
 title: Home
 permalink: /
+heading: Granular Mechanics for Energy and Disasters (GRAMED) Laboratory
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 nav: false
 nav_order: 1
