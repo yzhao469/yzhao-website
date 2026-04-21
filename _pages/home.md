@@ -27,6 +27,6 @@ Welcome to the **Gra**nular **M**echanics for **E**nergy and **D**isasters (**GR
 
 Granular materials are the second most manipulated materials on Earth after water, playing a critical role in both natural processes and engineered systems.
 
-At the GRAMMED Lab, we investigate the fundamental behavior of granular materials to address pressing challenges in energy systems and disaster resilience. Our research integrates computational modeling and experimental methods to explore how granular media respond to natural and anthropogenic disturbances, with applications ranging from subsurface energy technologies to geohazard mitigation.
+At the GRAMED Lab, we investigate the fundamental behavior of granular materials to address pressing challenges in energy systems and disaster resilience. Our research integrates computational modeling and experimental methods to explore how granular media respond to natural and anthropogenic disturbances, with applications ranging from subsurface energy technologies to geohazard mitigation.
 
 By bridging geomechanics with energy and hazard sciences, we aim to advance predictive capabilities and inform engineering strategies that enhance disaster preparedness, improve infrastructure resilience, and enable sustainable energy development. Our interdisciplinary approach supports innovations that are rooted in fundamental mechanics yet driven by real-world impact.
