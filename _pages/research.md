@@ -29,3 +29,15 @@ Drilling is essential for subsurface construction and accessing underground ener
 The swimming behavior of active bacteria can significantly alter fluid properties, sometimes in counterintuitive ways—such as the reduction of fluid viscosity by motile E. coli at low shear rates. This project investigates how motile E. coli influence fluid interfacial tension and droplet drying patterns through a series of controlled experiments. The bacteria were observed to preferentially attach to fluid interfaces, altering both interfacial tension and interfacial rheological behavior. Distinct crystallization patterns emerged in dried droplets depending on the presence of E. coli. These observations contribute to a deeper understanding of bacteria-fluid interactions, which are critical in biological flows through porous media and may inform future strategies for manipulating subsurface flows using active bacteria.
 
 {% include figure.liquid path="assets/img/MotileBacteria.png" class="img-fluid rounded z-depth-1" %}
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin-top: 2.5rem;">
+	<div style="display: flex; align-items: center; justify-content: center; padding: 0.85rem; border: 1px solid #e3e3e3; border-radius: 10px; background: #fff;">
+		<img src="{{ '/assets/img/sponsors/unl.jpg' | relative_url }}" alt="University of Nebraska-Lincoln" style="max-height: 90px; width: auto; max-width: 100%; object-fit: contain;" />
+	</div>
+	<div style="display: flex; align-items: center; justify-content: center; padding: 0.85rem; border: 1px solid #e3e3e3; border-radius: 10px; background: #fff;">
+		<img src="{{ '/assets/img/sponsors/nasa.png' | relative_url }}" alt="NASA" style="max-height: 90px; width: auto; max-width: 100%; object-fit: contain;" />
+	</div>
+	<div style="display: flex; align-items: center; justify-content: center; padding: 0.85rem; border: 1px solid #e3e3e3; border-radius: 10px; background: #fff;">
+		<img src="{{ '/assets/img/sponsors/nasa-nebraska.png' | relative_url }}" alt="NASA Nebraska" style="max-height: 90px; width: auto; max-width: 100%; object-fit: contain;" />
+	</div>
+</div>

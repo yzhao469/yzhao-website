@@ -46,7 +46,37 @@ nav_order: 3
   </div>
 </div>
 
+<div class="row mt-3">
+  <div class="col-sm-3 text-center">
+    <img src="{{ '' | relative_url }}" class="img-fluid rounded z-depth-1 mb-2" alt="Buddha Dahal">
+    <div class="mt-2 text-left">
+      <a href="mailto:bdahal2@huskers.unl.edu">bdahal2@huskers.unl.edu</a>
+    </div>
+  </div>
+  <div class="col-sm-9">
+    <h4><strong>Buddha Dahal</strong></h4>
+    <p><strong>PhD Student</strong></p>
+    <p></p>
+  </div>
+</div>
+
+<div class="row mt-3">
+  <div class="col-sm-3 text-center">
+    <img src="{{ '' | relative_url }}" class="img-fluid rounded z-depth-1 mb-2" alt="Zubair Rauf">
+    <div class="mt-2 text-left">
+      <a href="mailto:zrauf2@huskers.unl.edu">zrauf2@huskers.unl.edu</a>
+    </div>
+  </div>
+  <div class="col-sm-9">
+    <h4><strong>Zubair Rauf</strong></h4>
+    <p><strong>Undergraduate Researcher</strong></p>
+    <p></p>
+  </div>
+</div>
 ---
 
 ## Alumni
 
+Isabel Ching, Undergraduate Researcher
+
+Alexander Gordon, Undergraduate Researcher

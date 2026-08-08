@@ -10,7 +10,7 @@ nav_order: 1
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 contact: >
-  <p><strong>Office:</strong> 204D Peter Kiewit Institute, 1110 S 67th St, Omaha, NE</p>
+  <p><strong>Office:</strong> 205D Peter Kiewit Institute, 1110 S 67th St, Omaha, NE</p>
   <p><strong>Office Phone:</strong> 402-472-2371</p>
   <p><strong>Email:</strong> <a href="mailto:yzhao52@unl.edu">yzhao52@unl.edu</a></p>
 

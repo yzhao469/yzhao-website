@@ -10,9 +10,16 @@ We are actively seeking enthusiastic graduates, undergraduates, postdocs and vis
 
 ## Graduate Students:
 
-We are currently actively looking for 1-2 PhD students to join in Summer or Fall 2026. Check the details [here]({{ '/assets/pdf/GRAMED Lab PhD hiring UNL.pdf' | relative_url }}).
+<div style="border-left: 4px solid #4f6d7a; padding: 1rem 1.25rem; margin: 1.25rem 0; background-color: #f8f9fa; font-family: 'Georgia', 'Times New Roman', serif; line-height: 1.7;">
+  <p style="margin-bottom: 0.5rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;">To Graduate Research Assistant Applicants</p>
+  <p style="margin-bottom: 0.5rem;"><strong>Dear prospective applicants,</strong></p>
+  <p>Thank you for your interest in joining our research group. I understand that many of you are awaiting feedback emails. Because I receive a large volume of emails, I review applications in batches over several days. Emails that clearly describe your research interests, academic background, and future goals are especially helpful in allowing me to identify strong candidates.</p>
+  <p style="margin-bottom: 0;"><em>Thanks</em></p>
+</div>
 
-If you are interested in earning a PhD degree in this research group, you are welcomed to apply to the Department of Civil and Environmental Engineering through the Office of Graduate Studies at the University of Nebraska, Lincoln.
+We are currently seeking 1–2 PhD students to join in Summer or Fall 2026. Please see the details <a href="{{ '/assets/pdf/GRAMED Lab PhD hiring UNL.pdf' | relative_url }}">here</a>.
+
+If you are interested in earning a PhD degree in this research group, you are welcome to apply to the Department of Civil and Environmental Engineering through the Office of Graduate Studies at the University of Nebraska, Lincoln.
 
 If you would like to conduct an independent study for academic credit as a master's student, please contact Dr. Zhao via email or stop by at his office.
 
@@ -20,7 +27,7 @@ Graduate Program Application Resources:
 
 [https://graduate.unl.edu/admissions/](https://graduate.unl.edu/admissions/)
 
-[https://engineering.unl.edu/graduate-programs/admissions]/(https://engineering.unl.edu/graduate-programs/admissions)
+[https://engineering.unl.edu/graduate-programs/admissions/](https://engineering.unl.edu/graduate-programs/admissions/)
 
 [https://graduate.unl.edu/academics/programs/CIVE-MS/](https://graduate.unl.edu/academics/programs/CIVE-MS/)
 

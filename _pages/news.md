@@ -4,6 +4,9 @@ title: news
 permalink: /news/
 ---
 
+August 2026: Welcome Buddha Dahal to join our group!
+
+
 November 2025: we are actively looking for 1-2 highly motivated students to join our group as PhD students. Check here to learn more.
 
 August 2025: Welcome Lumanti Shakya to join our group!
