@@ -48,7 +48,7 @@ nav_order: 3
 
 <div class="row mt-3">
   <div class="col-sm-3 text-center">
-    <img src="{{ '' | relative_url }}" class="img-fluid rounded z-depth-1 mb-2" alt="Buddha Dahal">
+    <img src="{{ '/assets/img/Buddha.jpg' | relative_url }}" class="img-fluid rounded z-depth-1 mb-2" alt="Buddha Dahal">
     <div class="mt-2 text-left">
       <a href="mailto:bdahal2@huskers.unl.edu">bdahal2@huskers.unl.edu</a>
     </div>
@@ -56,7 +56,9 @@ nav_order: 3
   <div class="col-sm-9">
     <h4><strong>Buddha Dahal</strong></h4>
     <p><strong>PhD Student</strong></p>
-    <p></p>
+    <p>I'm a Ph.D. Student in geotechnical engineering at UNL. I completed my M.Sc. In Earthquake Engineering from Tribhuvan University's Thapathali Campus.</p>
+    <p> My research interests include computational geomechanics, geotechnical earthquake engineering, failure mechanisms, flow and deformation in soft porous media, and numerical and computational modeling.</p>
+    <p> In my leisure time, I enjoy exploring new places, playing musical instruments and singing. </p>
   </div>
 </div>
 
