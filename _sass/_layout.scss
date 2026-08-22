@@ -65,6 +65,37 @@ body.sticky-bottom-footer {
   max-width: v.$max-content-width;
 }
 
+.research-group {
+  color: var(--global-theme-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 2.75rem 0 1.25rem;
+  padding-bottom: 0.5rem;
+}
+
+.research-group-archived {
+  margin-top: 5rem;
+}
+
+.research-group ~ h2 {
+  font-size: 1.9rem;
+  line-height: 1.25;
+  margin: 2.75rem 0 1rem;
+}
+
+.research-group + h2 {
+  margin-top: 1.25rem;
+}
+
+.research-group ~ p {
+  text-align: left;
+}
+
+.research-group ~ figure {
+  margin: 1.5rem 0 4.5rem;
+}
+
 // Profile
 .profile {
   img {

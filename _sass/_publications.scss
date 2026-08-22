@@ -7,6 +7,26 @@
 .publications {
   margin-top: 2rem;
 
+  .publication-view-toggle {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+
+    button {
+      background: transparent;
+      border: 1px solid var(--global-divider-color);
+      color: var(--global-text-color);
+      font-size: 0.95rem;
+      padding: 0.45rem 0.8rem;
+
+      &[aria-selected="true"] {
+        background: var(--global-theme-color);
+        border-color: var(--global-theme-color);
+        color: var(--global-card-bg-color);
+      }
+    }
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
