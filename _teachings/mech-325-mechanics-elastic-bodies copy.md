@@ -3,7 +3,7 @@ layout: course
 title: MECH 325 Mechanics of Elastic Bodies
 description: Mechanics of solid materials within the range of elastic deformation with applications to science and engineering.
 instructor: Yumeng Zhao
-year: 2026
+year: 2025
 term: Fall
 location: University of Nebraska, Lincoln
 course_id: mech-325
@@ -23,3 +23,6 @@ This course introduces the mechanics of solid materials within the range of elas
 - Mohr's Circle
 - Failure theories
 
+## Course Materials
+
+- [Syllabus - MECH 325 Mechanics of Elastic Bodies]({{ '/assets/pdf/Syllabus MECH325 Mechanics of Elastic Bodies.pdf' | relative_url }})
