@@ -84,6 +84,11 @@ ninja.data = [{
           title: 'MECH 325 Mechanics of Elastic Bodies',
           description: "Mechanics of solid materials within the range of elastic deformation with applications to science and engineering.",
           section: "Teachings",handler: () => {
+              window.location.href = "/gramed-lab/teachings/mech-325-mechanics-elastic-bodies%20copy.html";
+            },},{id: "teachings-mech-325-mechanics-of-elastic-bodies",
+          title: 'MECH 325 Mechanics of Elastic Bodies',
+          description: "Mechanics of solid materials within the range of elastic deformation with applications to science and engineering.",
+          section: "Teachings",handler: () => {
               window.location.href = "/gramed-lab/teachings/mech-325-mechanics-elastic-bodies.html";
             },},{
         id: 'social-cv',
